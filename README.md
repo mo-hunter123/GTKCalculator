@@ -1,4 +1,4 @@
-#GTK Calculator Using GtkCssProvider:
+<h1>GTK Calculator Using GtkCssProvider:</h1>
 
 So we are developing a calculator in C programming language using GTK for User interface 
 
