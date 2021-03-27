@@ -3,7 +3,7 @@ FromBook.c
 guihi
 .vscode
 Makefile
-makeItenFUNction
+makeItenFUction.c
 Notes.txt
 test.c
 TestFromDoc.c
